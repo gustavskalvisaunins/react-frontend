@@ -1,0 +1,19 @@
+/*
+
+DESKTOP & TABLET STYLES
+
+*/
+
+.app {
+  display: flex;
+}
+
+.background {
+  z-index: -1;
+  display: flex;
+  position: fixed;
+  float: right;
+  top: 0;
+  width: auto;
+  height: 100vh;
+}
